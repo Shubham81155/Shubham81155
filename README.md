@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Shubham 👋<br><br>🎯 Aspiring Data Analyst<br>📊 Skilled in SQL, Python, Power BI, and Excel<br>📈 Interested in Data Analysis, Visualization, and Business Insights<br><br>## 🔧 Skills<br><br>* SQL (Joins, CTEs, Window Functions)<br>* Python (Pandas, NumPy, Matplotlib)<br>* Power BI (DAX, Dashboards)<br>* Excel (Pivot Tables, VLOOKUP, Power Query)<br>* ETL, Data Cleaning, Data Modeling<br><br>## 📂 Projects<br><br>* 📊 Blinkit Sales Analytics Dashboard<br>* 🏏 Cricket Analytics Pipeline (T20 World Cup)<br>* 🌾 Crop Yield Prediction System<br><br>## 📫 Connect with me<br><br>* LinkedIn: https://linkedin.com/in/shubhampandey27<br>
+# Hi, I'm Shubham 👋<br><br>🎯 Aspiring Data Analyst<br>📊 Skilled in SQL, Python, Power BI, and Excel<br>📈 Interested in Data Analysis, Visualization, and Business Insights<br><br>🔧 Skills<br><br>* SQL (Joins, CTEs, Window Functions)<br>* Python (Pandas, NumPy, Matplotlib)<br>* Power BI (DAX, Dashboards)<br>* Excel (Pivot Tables, VLOOKUP, Power Query)<br>* ETL, Data Cleaning, Data Modeling<br><br>📂 Projects<br><br>* 📊 Blinkit Sales Analytics Dashboard<br>* 🏏 Cricket Analytics Pipeline (T20 World Cup)<br>* 🌾 Crop Yield Prediction System<br><br>📫 Connect with me<br><br>* LinkedIn: https://linkedin.com/in/shubhampandey27<br>
 
 
 ## 🌐 Socials:
