@@ -1,63 +1,106 @@
 <h1 align="center">Hi 👋, I'm Shubham Pandey</h1>
 <h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Excel</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/shubhampandey27" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubham81155@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/l_b_shubham1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 💫 About Me
+
 - 🎯 Aspiring **Data Analyst**
 - 📊 Skilled in **SQL, Python, Power BI, and Excel**
 - 📈 Interested in **Data Analysis, Visualization, and Business Insights**
-- 🌱 Currently improving my **data analytics and dashboarding skills**
-- 💼 Open to **internship and entry-level data analyst opportunities**
+- 🌱 Currently improving my **data analytics, dashboarding, and problem-solving skills**
+- 💼 Open to **internship and entry-level opportunities**
 
 ---
 
 ## 🛠️ Skills
-- **Languages & Querying:** SQL, Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Plotly
-- **Visualization:** Power BI, Excel
-- **Concepts:** ETL, Data Cleaning, Data Modeling, Dashboarding
+
+### Languages & Tools
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### Core Concepts
+- Data Cleaning
+- Data Visualization
+- Dashboarding
+- ETL
+- Data Modeling
+- Exploratory Data Analysis (EDA)
 
 ---
 
-## 📂 Projects
-- 📊 **Blinkit Sales Analytics Dashboard**
-- 🏏 **Cricket Analytics Pipeline (T20 World Cup)**
-- 🌾 **Crop Yield Prediction System**
+## 📂 Featured Projects
 
----
+### 📊 Blinkit Sales Analytics Dashboard
+- Built an interactive **Power BI dashboard** to analyze sales, customer behavior, and product performance.
+- Used **data cleaning, KPIs, and visual storytelling** for business insights.
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhampandey27)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l_b_shubham1)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubham81155@gmail.com)
+### 🏏 Cricket Analytics Pipeline (T20 World Cup)
+- Analyzed cricket match data using **Python, Pandas, and visualization libraries**.
+- Extracted insights related to team/player performance.
 
----
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🌾 Crop Yield Prediction System
+- Developed a predictive analytics project using **machine learning concepts**.
+- Focused on agricultural data analysis and forecasting.
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Shubham81155&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Shubham81155&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham81155&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham81155&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham81155&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham81155&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shubham81155&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shubham81155&theme=graywhite&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham81155&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Shubham81155&icon=4&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+- 🔗 LinkedIn: [linkedin.com/in/shubhampandey27](https://linkedin.com/in/shubhampandey27)
+- 📧 Email: [shubham81155@gmail.com](mailto:shubham81155@gmail.com)
+- 📷 Instagram: [@l_b_shubham1](https://instagram.com/l_b_shubham1)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Shubham81155&icon=5&color=6" />
+</p>
