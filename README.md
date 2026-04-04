@@ -85,13 +85,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham81155&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -100,7 +93,3 @@
 - 📷 Instagram: [@l_b_shubham1](https://instagram.com/l_b_shubham1)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shubham81155&icon=5&color=6" />
-</p>
