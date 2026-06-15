@@ -16,7 +16,7 @@
 ## 🎓 About Me
 
 * 🎓 MCA Student at Jain (Deemed-to-be University), Bengaluru
-* 💻 Software Development Intern at IFQM
+* 💻 Software Development Intern at Sarvottam
 * ☁️ Aspiring Data Engineer with hands-on experience in Azure Data Services
 * 📊 Skilled in SQL, Python, PySpark, Data Warehousing, ETL/ELT Pipelines, and Power BI
 * 🚀 Passionate about building scalable data platforms and transforming raw data into actionable insights
@@ -104,7 +104,7 @@
 
 ## 💼 Experience
 
-### Software Development Intern | IFQM
+### Software Development Intern | Sarvottam
 
 **June 2026 – Present**
 
